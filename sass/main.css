@@ -650,7 +650,7 @@ position: absolute;
   display: flex;
 }
 
-.about-list-title {
+.about-title {
   font-family: var(--main-font);
   font-weight: 700;
   font-size: 36px;
